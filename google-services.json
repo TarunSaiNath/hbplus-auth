@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "951608723634",
+    "project_id": "hbplus-auth-ec276",
+    "storage_bucket": "hbplus-auth-ec276.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951608723634:android:a0ef7b0d99b54823a0a1ab",
+        "android_client_info": {
+          "package_name": "com.tarunsainath.hbplusauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951608723634-jvto682ogmb7df4f73b6ojiirllr8mdg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tarunsainath.hbplusauth",
+            "certificate_hash": "fc42bccd7758efc78a045825f886226eea3dca12"
+          }
+        },
+        {
+          "client_id": "951608723634-1hhgm9hrur6uimlsr1e29s834j3fk69b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBIx-RvF0Oh-3SuX_NcPG2sSv_aRW9iyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951608723634-1hhgm9hrur6uimlsr1e29s834j3fk69b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
